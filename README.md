@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshwinAgrawal025
+- 👋 Hi, I’m @Ashu
 - 👀 I’m interested in learning new things here so that it can help me in companies...
 - 🌱 I’m currently learning C Language from this platform as on a Basic Level.
 - 💞️ I’m looking to collaborate on Many Projects as for now so that it can help me learn new things.
